@@ -1,5 +1,7 @@
 # CI/CD with Docker, GitHub Actions & GitHub Packages
 
+![alt text](https://raw.githubusercontent.com/oliversavio/github-actions-docker-ci/main/ci_cd_pipeline.png)
+
 
 This repository is a supplement to my YouTube video, you may watch it here
 https://youtu.be/Ojc5yc5F2Gs
